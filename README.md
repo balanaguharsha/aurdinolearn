@@ -1,0 +1,2 @@
+# aurdinolearn
+Amuda lab internship
