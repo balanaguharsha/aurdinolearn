@@ -1,5 +1,0 @@
-Hey this is in the master branch
- 
- 
- And i want to add this into an another branch from the master branch!
-hey
